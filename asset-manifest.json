@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Weather_App/static/css/main.3af9e849.css",
-    "main.js": "/Weather_App/static/js/main.d5a7bb0a.js",
+    "main.css": "/Weather_App/static/css/main.c2545cf2.css",
+    "main.js": "/Weather_App/static/js/main.20b6f194.js",
     "static/media/pexels-tobiasbjorkli-1693095 (1).jpg": "/Weather_App/static/media/pexels-tobiasbjorkli-1693095 (1).5fe770bd4d62e743b56d.jpg",
     "static/media/DeWatermark.ai_1721056739125.png": "/Weather_App/static/media/DeWatermark.ai_1721056739125.76bb959def2d2950559f.png",
     "static/media/5203299.jpg": "/Weather_App/static/media/5203299.ce293654fc5b055593cf.jpg",
     "static/media/vecteezy_abstract-blue-fluid-wave-background_.jpg": "/Weather_App/static/media/vecteezy_abstract-blue-fluid-wave-background_.2a24cd4753cecbd9d06a.jpg",
+    "static/media/7123025_logo_google_g_icon.png": "/Weather_App/static/media/7123025_logo_google_g_icon.81fdb134397492b14f45.png",
     "index.html": "/Weather_App/index.html",
-    "main.3af9e849.css.map": "/Weather_App/static/css/main.3af9e849.css.map",
-    "main.d5a7bb0a.js.map": "/Weather_App/static/js/main.d5a7bb0a.js.map"
+    "main.c2545cf2.css.map": "/Weather_App/static/css/main.c2545cf2.css.map",
+    "main.20b6f194.js.map": "/Weather_App/static/js/main.20b6f194.js.map"
   },
   "entrypoints": [
-    "static/css/main.3af9e849.css",
-    "static/js/main.d5a7bb0a.js"
+    "static/css/main.c2545cf2.css",
+    "static/js/main.20b6f194.js"
   ]
 }
